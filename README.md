@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Rudraksh  👋
 
-<!--
-**Rudraksh0076/Rudraksh0076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 First-year Computer Science student
+- 💻 Learning C++
+- 🌱 Currently exploring Data Structures & Algorithms
+- 🚀 Future AI & Software Developer
 
-Here are some ideas to get you started:
+## 🛠️ Languages
+- C++
+- Python (Learning)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🏦 Mini Banking System
+- 🔷 Hollow Diamond Pattern Generator
+
+## 🎯 Goals
+- Build 50+ projects
+- Learn DSA
+- Contribute to Open Source
+- Build AI applications
+
+Thanks for visiting!
