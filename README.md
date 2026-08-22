@@ -1,24 +1,41 @@
-# Hi, I'm Rudraksh  👋
+Hi, I'm Rudraksh Sharma 👋
 
-## 👨‍💻 About Me
-- 🎓 First-year Computer Science student
-- 💻 Learning C++
-- 🌱 Currently exploring Data Structures & Algorithms
-- 🚀 Future AI & Software Developer
+I'm a first-year Computer Science student focused on building strong programming fundamentals, problem-solving skills, and practical software development experience.
 
-## 🛠️ Languages
+About Me
+
+- Currently learning C++ and Data Structures & Algorithms
+- Exploring Full-Stack Development
+- Building a strong foundation in Computer Science
+- Interested in Software Development, AI, and Open Source
+- Focused on learning consistently and improving through practice
+
+Currently Learning
+
 - C++
-- Python (Learning)
+- Data Structures & Algorithms
+- Python
 - Git & GitHub
 
-## 📂 Projects
-- 🏦 Mini Banking System
-- 🔷 Hollow Diamond Pattern Generator
+Learning Roadmap
 
-## 🎯 Goals
-- Build 50+ projects
-- Learn DSA
+I'm gradually expanding my knowledge in:
+
+- Full-Stack Development
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+
+Current Goals
+
+- Strengthen problem-solving skills through DSA
+- Build strong software development fundamentals
+- Develop practical, real-world applications
+- Learn core Computer Science concepts
 - Contribute to Open Source
-- Build AI applications
+- Continuously improve as a developer
 
-Thanks for visiting!
+---
+
+«Learning. Building. Improving.»
