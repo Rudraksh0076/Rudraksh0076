@@ -1,57 +1,62 @@
 # Hi, I'm Rudraksh Sharma 👋
 
-First-year Computer Science student focused on building strong programming fundamentals and practical software development skills.
+🎓 First-Year Computer Science Student | 💻 C++ & DSA | ☕ Java Backend
 
-## 🧑‍💻 Current Focus
+I'm a first-year Computer Science student focused on building strong programming fundamentals, improving problem-solving skills, and turning what I learn into practical projects.
 
-- **DSA:** C++
-- **Backend:** Java
-- **Frontend:** HTML, CSS, JavaScript
-- **Version Control:** Git & GitHub
+## 🚀 Current Focus
 
-## 🛠️ Skills
+- 🧠 **Data Structures & Algorithms** — C++
+- 💻 **Programming** — C++ & Java
+- ☕ **Backend Development** — Java
+- 🌐 **Web Development** — Starting with HTML, CSS & JavaScript
+- 🔧 **Version Control** — Git & GitHub
+
+## 🛠️ Technical Skills
 
 ### Languages
 - C++
 - Java
-- JavaScript
 
 ### Core Concepts
 - Object-Oriented Programming
 - File Handling
 - Data Structures & Algorithms
 - Problem Solving
+- Programming Fundamentals
 
-### Development
-- HTML
-- CSS
-- JavaScript
+### Tools
 - Git
 - GitHub
+- VS Code
 
 ## 📌 Projects
 
-### C++ Banking System
-A console-based banking application built while learning C++, OOP, and file handling.
+### 🏦 C++ Banking System
+A console-based banking application built to practice C++, programming fundamentals, and file handling.
 
-### C++ Pattern Programs
-A collection of C++ pattern and programming-fundamentals exercises.
+**Focus:** Account management, transactions, authentication, and application logic.
 
-> More projects will be added as I build them.
+### 🔷 C++ Pattern Programs
+A collection of C++ programs focused on loops, patterns, logic building, and programming fundamentals.
 
-## 🎯 Current Learning Path
+## 📚 Learning Path
 
 ```text
-C++ + DSA
-     ↓
+C++ Fundamentals
+       ↓
+C++ OOP + File Handling
+       ↓
+DSA in C++
+       ↓
 Java Fundamentals
-     ↓
+       ↓
 HTML + CSS + JavaScript
-     ↓
+       ↓
 Java Backend Development
-     ↓
+       ↓
 Spring Boot + SQL
-     ↓
+       ↓
 Full-Stack Development
-     ↓
+       ↓
 AI Specialization
