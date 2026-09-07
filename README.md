@@ -1,41 +1,57 @@
-Hi, I'm Rudraksh Sharma 👋
+# Hi, I'm Rudraksh Sharma 👋
 
-I'm a first-year Computer Science student focused on building strong programming fundamentals, problem-solving skills, and practical software development experience.
+First-year Computer Science student focused on building strong programming fundamentals and practical software development skills.
 
-About Me
+## 🧑‍💻 Current Focus
 
-- Currently learning C++ and Data Structures & Algorithms
-- Exploring Full-Stack Development
-- Building a strong foundation in Computer Science
-- Interested in Software Development, AI, and Open Source
-- Focused on learning consistently and improving through practice
+- **DSA:** C++
+- **Backend:** Java
+- **Frontend:** HTML, CSS, JavaScript
+- **Version Control:** Git & GitHub
 
-Currently Learning
+## 🛠️ Skills
 
+### Languages
 - C++
-- Data Structures & Algorithms
-- Python
-- Git & GitHub
+- Java
+- JavaScript
 
-Learning Roadmap
-
-I'm gradually expanding my knowledge in:
-
-- Full-Stack Development
+### Core Concepts
 - Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
+- File Handling
+- Data Structures & Algorithms
+- Problem Solving
 
-Current Goals
+### Development
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
 
-- Strengthen problem-solving skills through DSA
-- Build strong software development fundamentals
-- Develop practical, real-world applications
-- Learn core Computer Science concepts
-- Contribute to Open Source
-- Continuously improve as a developer
+## 📌 Projects
 
----
+### C++ Banking System
+A console-based banking application built while learning C++, OOP, and file handling.
 
-«Learning. Building. Improving.»
+### C++ Pattern Programs
+A collection of C++ pattern and programming-fundamentals exercises.
+
+> More projects will be added as I build them.
+
+## 🎯 Current Learning Path
+
+```text
+C++ + DSA
+     ↓
+Java Fundamentals
+     ↓
+HTML + CSS + JavaScript
+     ↓
+Java Backend Development
+     ↓
+Spring Boot + SQL
+     ↓
+Full-Stack Development
+     ↓
+AI Specialization
